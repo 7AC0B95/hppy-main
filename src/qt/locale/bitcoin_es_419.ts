@@ -42,8 +42,8 @@
         <translation>Recibiendo direcciones</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estas son sus direcciones de Litecoin para enviar sus pagos. Siempre revise el monto y la dirección recibida antes de enviar monedas.</translation>
+        <source>These are your HAPPY addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Estas son sus direcciones de HAPPY para enviar sus pagos. Siempre revise el monto y la dirección recibida antes de enviar monedas.</translation>
     </message>
     </context>
 <context>
